@@ -1,6 +1,7 @@
 # Python Basics
+# To run file... python3 file_name.py
 
-# variables
+# Variables
 character_name = "George"
 character_age = "70"
 
@@ -32,3 +33,7 @@ print(phrase.index("G"))
 
 # Replace function
 print(phrase.replace("General", "Specific"))
+
+#  Printing numbers next to strings
+my_num = 5
+print(str(my_num) + " my favorite number")
